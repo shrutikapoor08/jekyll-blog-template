@@ -1,0 +1,7 @@
+- ✅ optional chaining
+- ✅ js splice
+- ✅ JavaScript Form Validation – How to Check User Input on HTML Forms with JS Example Code
+- ✅ JavaScript Events Tutorial – How to do Event Handling in JS
+- trim whitespace
+- react usestate
+- js array methods
