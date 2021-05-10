@@ -8,4 +8,4 @@ To create your own blog -
 2. Modify your site's baseurl in `_config.yml` to point to your repo.
 3. Modify content in `_posts`
 4. Modify styles in `style.css`
-5. Enjoy, contribute and give back. 
+5. Enjoy, contribute and pass it forward.
