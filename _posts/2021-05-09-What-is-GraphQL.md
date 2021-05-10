@@ -1,11 +1,8 @@
 ---
 layout: post
-title: Dealing with imposter syndrome
+title: What is GraphQL? 
 ---
 
-# JSByte: "What is GraphQL" simplified 
-
-**What is GraphQL?** 
 In simple terms, a GraphQL API is a way of getting data from any data source. If you are familiar with REST, GraphQL is an alternative to REST APIs and provides a new way of asking for data. GraphQL is a language to query an API and provides a [specification](https://spec.graphql.org/) for fulfilling those queries. The GraphQL spec provide a set of rules for defining what should happen when a GraphQL request is made. 
 
 A cool thing to note is that GraphQL can be used with and on top of any data sources such as REST APIs & databases and it can be plugged anywhere, built in any language and fit on top of any database and tech stack. GraphQL fits in both client and server side.
