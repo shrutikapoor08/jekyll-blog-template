@@ -1,3 +1,8 @@
+---
+layout: post
+title: Dealing with imposter syndrome
+---
+
 # JSByte: "What is GraphQL" simplified 
 
 **What is GraphQL?** 
